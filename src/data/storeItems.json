@@ -1,0 +1,152 @@
+[
+  {
+   
+    "id": 1,
+    "name": "diamond ring",
+    "price": 14000,
+    "imgUrl": "/imgs/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+   
+    "id": 2,
+    "name": "Laptop",
+    "price": 1200,
+    "imgUrl": "/imgs/laptop_hp_pavilion_15cs2xxx_1587738437_47d3f0e0_progressive.jpg"
+  },
+  {
+    "id": 3,
+    "name": "shelves",
+    "price": 50,
+    "imgUrl": "/imgs/1623369384448.jpg"
+  },
+  
+  {
+    "id": 4,
+    "name": "ring",
+    "price": 1000,
+    "imgUrl": "/imgs/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "shirt",
+    "price": 100,
+    "imgUrl": "/imgs/51eg55uWmdL._AC_UX679_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "sweatshirt",
+    "price": 180,
+    "imgUrl": "/imgs/51Y5NI-I5jL._AC_UX679_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "hard",
+    "price": 160,
+    "imgUrl": "/imgs/61IBBVJvSDL._AC_SY879_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "hard",
+    "price": 180,
+    "imgUrl": "/imgs/61mtL65D4cL._AC_SX679_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "clothing set",
+    "price": 220,
+    "imgUrl": "/imgs/61pHAEJ4NML._AC_UX679_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "ring",
+    "price": 140,
+    "imgUrl": "/imgs/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id":11,
+    "name": "hard",
+    "price": 130,
+    "imgUrl": "/imgs/61U7T1koQqL._AC_SX679_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "chert",
+    "price": 140,
+    "imgUrl": "/imgs/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "jeans jacket",
+    "price": 120,
+    "imgUrl": "/imgs/71HblAHs5xL._AC_UY879_-2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "hard",
+    "price": 150,
+    "imgUrl": "/imgs/71kWymZ+c+L._AC_SX679_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "jeans jacket",
+    "price": 110,
+    "imgUrl": "/imgs/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "glide",
+    "price": 140,
+    "imgUrl": "/imgs/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Laptop",
+    "price": 1000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 18,
+    "name": "wool shirt",
+    "price": 140,
+    "imgUrl": "/imgs/71YXzeOuslL._AC_UY879_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "shirt",
+    "price": 50,
+    "imgUrl": "/imgs/71z3kpMAYsL._AC_UY879_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "purse",
+    "price":75,
+    "imgUrl": "/imgs/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 21,
+    "name": "samsung screen",
+    "price": 500,
+    "imgUrl": "/imgs/81QpkIctqPL._AC_SX679_.jpg"
+  },
+  {
+    "id": 22,
+    "name": "jacket",
+    "price": 150,
+    "imgUrl": "/imgs/81XH0e8fefL._AC_UY879_.jpg"
+  },
+  {
+    "id": 23,
+    "name": "book",
+    "price": 15,
+    "imgUrl": "/imgs/book.jpg"
+  },
+   
+ 
+  {
+    "id": 22,
+    "name": "Car",
+    "price": 140,
+    "imgUrl": "/imgs/car.jpg"
+  }
+  
+]
